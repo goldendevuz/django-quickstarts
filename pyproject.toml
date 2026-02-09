@@ -1,7 +1,7 @@
 [project]
-name = "drf-cookiecutter"
+name = "django-quickstarts"
 version = "0.1.0"
-description = "Add your description here"
+description = "Django quickstarts"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
